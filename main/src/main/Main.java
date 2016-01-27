@@ -16,7 +16,7 @@ public class Main {
      */
     public static void main(String[] args) 
     {
-        System.out.println("Going to test out if I can make changes.");
+        System.out.println("Ok, this should replace the old message");
     }
     
 }
